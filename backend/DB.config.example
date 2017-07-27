@@ -1,0 +1,8 @@
+let config = {
+    host: 'localhost',
+    user: 'admin',
+    password: 'password',
+    database: 'database'
+}
+
+module.exports = config;
